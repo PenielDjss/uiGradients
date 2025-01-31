@@ -41,8 +41,8 @@ To add your gradient, fork this repository, add your gradient colors in the HEX 
         …
     },
     {
-      "name": "Career",
-      "colors": ["#cb202d", "#dc1e28", "#3366cc"]
+      "name": "Péniel",
+      "colors": ["#C4AA84", "#FFFFFF", "#D4C944"]
     }
 ]
 ```
